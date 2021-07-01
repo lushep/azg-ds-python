@@ -1,1 +1,1 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lushep/azg-ds-python/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://gdd.li/azg-binder)
