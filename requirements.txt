@@ -1,0 +1,11 @@
+sklearn
+matplotlib
+pandas
+seaborn
+numpy
+altair
+
+
+
+
+
