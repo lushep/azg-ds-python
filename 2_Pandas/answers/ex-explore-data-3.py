@@ -1,0 +1,1 @@
+chickweight['weight'].value_counts().iloc[0]
